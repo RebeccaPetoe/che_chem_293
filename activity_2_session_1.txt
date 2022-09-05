@@ -1,0 +1,14 @@
+1. What does the model achieve?
+Understand the linear relationship between the force exerted on an object by gravity and mass of object.
+2. How should metrics be interpreted?
+The independent variable is the mass of the object expressed in kilograms, and the dependent variable is the force exerted on an object by gravity expressed in Newton. 
+3. What are appropriate use cases? 
+Mass and force exerted on an object by gravity are two variables that fit with linear relationship
+4. How is it implemented?
+Applying linear regression to the data. 
+5. What are caveats/biases/concerns to its usage?
+The data is fake. We need to collect data from a real experiments
+6. How to interpret this specific result and advising action/next steps
+Mass of an object and force exerted on an object by gravity are directly proportional. The more the mass of an object, the more force is exerted on the object.
+
+
